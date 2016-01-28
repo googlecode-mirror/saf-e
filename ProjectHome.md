@@ -1,0 +1,1 @@
+A application framework, extending optionally from ZendFramework, geared at facilitating rapid development of semantically rich, restful, web applications.
